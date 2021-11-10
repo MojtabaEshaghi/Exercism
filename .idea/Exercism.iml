@@ -9,6 +9,7 @@
       <excludeFolder url="file://$MODULE_DIR$/dart/leap/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/dart/leap/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/dart/leap/build" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/scrabble-score/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/dart/scrabble-score/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/dart/scrabble-score/build" />
       <excludeFolder url="file://$MODULE_DIR$/dart/two-fer/.dart_tool" />
